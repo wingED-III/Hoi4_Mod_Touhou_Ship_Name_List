@@ -1,20 +1,21 @@
 ﻿##### TOUHOU NAME LISTS #####
 
-THU_SHIP_NAME ={
+TOUHOU_SHIP_NAME = {
 	name = NAME_THEME_TOUHOU
 	#name = Touhou
-	for_countries = { JAP,GER }
+	#no need to specific contries : avaiable for all contries
+	for_countries = { }
 
 	type = ship
+
 	#no need to specific ship typs
 	#ship_types = { ship_hull_light destroyer }			
-
-	fallback_name = "Touhou %d"					
-
+	fallback_name = "Touhou %d"
 	unique = {
-		"Reimu" "Marisa" "Sakuya"
+		"Reimu"
+		"Marisa"
+		"Sakuya"
 	}
-
 }
 
 
@@ -106,17 +107,3 @@ THU_SHIP_NAME ={
 # 	}
 # }
 
-# JAP_RIVER_MOUNTAIN = {
-# 	name = NAME_THEME_RIVER_MOUNTAIN
-
-# 	for_countries = { JAP }
-
-# 	type = ship
-
-# 	unique = {
-# 		"Asama" "Furutaka" "Kako" "Aoba" "Kinugasa" "Myoko" "Nachi" "Haguro" "Ashigara" "Takao" "Atago" "Maya" "Chokai" "Mogami" "Mikuma" "Suzuya" 
-# 		"Kumano" "Tone" "Chikuma" "Ibuki" "Yodo" "Hirado" "Yahagi" "Tenryu" "Tatsuta" "Kuma" "Tama" "Kitakami" "Oi" "Kiso" "Nagara" "Isuzu" "Natori" 
-# 		"Yura" "Kinu" "Abukuma" "Yubari" "Sendai" "Jintsu" "Naka" "Agano" "Noshiro" "Yahagi" "Sakawa" "Oyodo"
-# 		"Ayase" "Minase" "Otonase" 
-# 	}
-# }
