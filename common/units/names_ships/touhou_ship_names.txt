@@ -1,5 +1,6 @@
 ﻿##### TOUHOU NAME LISTS #####
 
+# windows era for now
 TOUHOU_SHIP_NAME = {
 	name = NAME_THEME_TOUHOU
 	#name = Touhou
@@ -9,101 +10,20 @@ TOUHOU_SHIP_NAME = {
 	type = ship
 
 	#no need to specific ship typs
-	#ship_types = { ship_hull_light destroyer }			
+	#ship_types = { ship_hull_light destroyer }		
+
 	fallback_name = "Touhou %d"
 	unique = {
-		"Reimu"
-		"Marisa"
-		"Sakuya"
+		"Marisa" "Reimu" "Rumia" "Daiyousei" "Cirno" "Meiling" "Koakuma" "Patchouli" "Sakuya" "Remilia"
+		"Flandre" "Letty" "Chen" "Alice" "Lily" "Merlin" "Lunasa" "Lyrica" "Youmu" "Yuyuko"
+		"Ran" "Yukari" "Suika" "Wriggle" "Mystia" "Keine" "Tewi" "Reisen" "Eirin" "Kaguya"
+		"Fujiwara" "Aya" "Medicine" "Yuuka" "Komachi" "Shikieiki" "Shizuha" "Minoriko" "Hina" "Nitori"
+		"Momiji" "Sanae" "Kanako" "Suwako" "Iku" "Tenshi" "Kisume" "Yamame" "Parsee" "Yuugi"
+		"Satori" "Rin" "Okuu" "Koishi" "Nazrin" "Kogasa" "Ichirin" "Murasa " "Shou " "Byakuren"
+		"Nue" "Hatate" "Sunny" "Luna" "Star" "Kyouko" "Yoshika" "Seiga" "Tojiko" "Futo"
+		"Miko" "Mamizou" "Kokoro " "Wakasagihime" "Sekibanki" "Kagerou" "Yatsuhashi" "Benben" "Seija" "Shinmyoumaru"
+		"Raiko" "Kasen" "Sumireko" "Seiran" "Ringo" "Doremy" "Sagume" "Clownpiece" "Junko" "Hecatia"
+		"Joon" "Shion" "Eternity Larva" "Nemuno" "Aunn" "Narumi" "Mai" "Satono" "Okina" "Eika" 
 	}
 }
-
-
-# ### SUBMARINES ###
-# JAP_SS_HISTORICAL = {
-# 	name = NAME_THEME_HISTORICAL_SUBMARINES
-
-# 	for_countries = { JAP }
-
-# 	type = ship
-# 	ship_types = { ship_hull_submarine submarine }
-	
-# 	fallback_name = "I-%d"
-	
-# 	ordered = {
-# 		51 = {"I-%d"}
-# 		52 = {"I-%d"}
-# 		1 = {"I-%d"}
-# 		2 = {"I-%d"} 
-# 		3 = {"I-%d"} 
-# 		4 = {"I-%d"} 
-# 		53 = {"I-%d"}
-# 		54 = {"I-%d"}
-# 		55 = {"I-%d"}
-# 		58 = {"I-%d"}
-# 		121 = {"I-%d"}
-# 		122 = {"I-%d"}
-# 		123 = {"I-%d"}
-# 		124 = {"I-%d"}
-# 		56 = {"I-%d"}
-# 		57 = {"I-%d"}
-# 		59 = {"I-%d"}
-# 		60 = {"I-%d"}
-# 		63 = {"I-%d"}
-# 		61 = {"I-%d"}
-# 		62 = {"I-%d"}
-# 		64 = {"I-%d"}
-# 		65 = {"I-%d"}
-# 		66 = {"I-%d"}
-# 		67 = {"I-%d"}
-# 		5 = {"I-%d"} 
-# 		68 = {"I-%d"}
-# 		69 = {"I-%d"}
-# 		70 = {"I-%d"}
-# 		71 = {"I-%d"}
-# 		72 = {"I-%d"}
-# 		73 = {"I-%d"}
-# 		6 = {"I-%d"} 
-# 		7 = {"I-%d"} 
-# 		8 = {"I-%d"} 
-# 		74 = {"I-%d"}
-# 		75 = {"I-%d"}
-# 		9 = {"I-%d"} 
-# 		10 = {"I-%d"}
-# 		11 = {"I-%d"} 
-# 		12 = {"I-%d"}
-# 		13 = {"I-%d"}
-# 		14 = {"I-%d"}
-# 		15 = {"I-%d"}
-# 		16 = {"I-%d"}
-# 		17 = {"I-%d"}
-# 		18 = {"I-%d"}
-# 		19 = {"I-%d"}
-# 		20 = {"I-%d"}
-# 		21 = {"I-%d"}
-# 		22 = {"I-%d"}
-# 		23 = {"I-%d"}
-# 		24 = {"I-%d"}
-# 		25 = {"I-%d"}
-# 	}
-# }
-
-
-# ### THEME: JAPANESE PREFECTURES ###
-# JAP_PREFECTURES = {
-# 	name = NAME_THEME_PREFECTURES
-
-# 	for_countries = { JAP }
-
-# 	type = ship
-
-# 	unique = {
-# 		"Yamashiro" "Kawachi" "Izumi" "Settsu" "Iga" "Ise" "Shima" "Owari" "Mikawa" "Totomi" "Suruga" "Izu" "Kai" "Sagami" "Musashi" "Awa" "Kazusa" 
-# 		"Shimosa" "Hitachi" "Omi" "Mino" "Hida" "Shinano" "Kozuke" "Shimotsuke" "Dewa" "Mutsu" "Wakasa" "Echizen" "Kaga" "Noto" "Etchu" "Echigo" 
-# 		"Sado" "Tanba" "Tango" "Tajima" "Inaba" "Hoki" "Izumo" "Iwami" "Oki" "Harima" "Mimasaka" "Bizen" "Bitchu" "Bingo" "Aki" "Suo" "Nagato" 
-# 		"Kii" "Awaji" "Awa" "Sanuki" "Iyo" "Tosa" "Buzen" "Chikuzen" "Chikugo" "Hizen" "Higo" "Hyuga" "Osumi" "Satsuma" "Iki" "Tsushima" "Oshima" 
-# 		"Shiribeshi" "Iburi" "Ishikari" "Teshio" "Kitami" "Hidaka" "Tokachi" "Kushiro" "Nemuro" "Chishima" 
-# 		"Hokkaido" "Aichi" "Ehime" "Gunma" "Hyogo" "Ishikawa" "Iwate" "Kagawa" "Kanagawa" "Mie" "Miyagi" "Okinawa" "Shiga" "Shimane" "Tochigi" "Yamanashi"
-# 	}
-# }
 
