@@ -27,3 +27,79 @@ TOUHOU_SHIP_NAME = {
 	}
 }
 
+TOUHOU_PLAYER_NAME = {
+	name = NAME_TOUHOU_PLAYER
+
+	type = ship
+
+	fallback_name = "Touhou Player %d"
+	unique = {
+		"Marisa" "Reimu" "Sakuya" "Youmu" "More Soon!"
+	}
+}
+
+#6
+TOUHOU_EOSD_NAME = {
+	name = NAME_TOUHOU_EOSD
+
+	type = ship
+
+	fallback_name = "Touhou EOSD %d"
+	unique = {
+		"Rumia" "Daiyousei" "Cirno" "Meiling" "Koakuma" "Patchouli" "Sakuya" "Remilia"
+		"Flandre" 
+	}
+}
+
+#6.5
+TOUHOU_IAMP_NAME = {
+	name = NAME_TOUHOU_IAMP
+
+	type = ship
+
+	fallback_name = "Touhou IAMP %d"
+	unique = {
+		"Temp Name"
+	}
+}
+
+TOUHOU_INABA_NAME = {
+	name = NAME_TOUHOU_RABBIT
+
+	type = ship
+
+	fallback_name = "Touhou Inana %d"
+
+}
+
+#7
+TOUHOU_PCB_NAME = {
+	name = NAME_TOUHOU_PCB
+
+	type = ship
+
+	fallback_name = "Touhou PCB %d"
+	unique = {
+		"Temp Name"
+	}
+}
+
+TOUHOU_INABA_NAME = {
+	name = NAME_TOUHOU_RABBIT
+
+	type = ship
+
+	fallback_name = "Touhou Inana %d"
+
+}
+
+TOUHOU_IN_NAME = {
+	name = NAME_TOUHOU_IN
+
+	type = ship
+
+	fallback_name = "Touhou IN %d"
+	unique = {
+		"Temp Name"
+	}
+}
