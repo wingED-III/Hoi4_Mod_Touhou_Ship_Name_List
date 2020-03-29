@@ -27,6 +27,7 @@ TOUHOU_SHIP_NAME = {
 	}
 }
 
+#playable character
 TOUHOU_PLAYER_NAME = {
 	name = NAME_TOUHOU_PLAYER
 
@@ -78,7 +79,7 @@ TOUHOU_PCB_NAME = {
 }
 
 TOUHOU_INABA_NAME = {
-	name = NAME_TOUHOU_RABBIT
+	name = NAME_TOUHOU_INABA
 
 	type = ship
 
@@ -96,6 +97,42 @@ TOUHOU_IN_NAME = {
 	type = ship
 
 	fallback_name = "Touhou IN %d"
+	unique = {
+		"Temp Name"
+	}
+}
+
+#th stage 1
+TOUHOU_ST1_NAME = {
+	name = NAME_TOUHOU_ST1
+
+	type = ship
+
+	#fallback_name = "Touhou %d"
+	unique = {
+		"Temp Name"
+	}
+}
+
+#th stage 1
+TOUHOU_ST2_NAME = {
+	name = NAME_TOUHOU_ST2
+
+	type = ship
+
+	#fallback_name = "Touhou %d"
+	unique = {
+		"Temp Name"
+	}
+}
+
+#th stage 1
+TOUHOU_ST3_NAME = {
+	name = NAME_TOUHOU_ST3
+
+	type = ship
+
+	#fallback_name = "Touhou %d"
 	unique = {
 		"Temp Name"
 	}
