@@ -19,7 +19,7 @@ TOUHOU_SHIP_NAME = {
 		"Ran" "Yukari" "Suika" "Wriggle" "Mystia" "Keine" "Tewi" "Reisen" "Eirin" "Kaguya"
 		"Fujiwara" "Aya" "Medicine" "Yuuka" "Komachi" "Shikieiki" "Shizuha" "Minoriko" "Hina" "Nitori"
 		"Momiji" "Sanae" "Kanako" "Suwako" "Iku" "Tenshi" "Kisume" "Yamame" "Parsee" "Yuugi"
-		"Satori" "Rin" "Okuu" "Koishi" "Nazrin" "Kogasa" "Ichirin" "Murasa " "Shou " "Byakuren"
+		"Satori" "Rin" "Utsuho" "Koishi" "Nazrin" "Kogasa" "Ichirin" "Murasa " "Shou " "Byakuren"
 		"Nue" "Hatate" "Sunny" "Luna" "Star" "Kyouko" "Yoshika" "Seiga" "Tojiko" "Futo"
 		"Miko" "Mamizou" "Kokoro " "Wakasagihime" "Sekibanki" "Kagerou" "Yatsuhashi" "Benben" "Seija" "Shinmyoumaru"
 		"Raiko" "Kasen" "Sumireko" "Seiran" "Ringo" "Doremy" "Sagume" "Clownpiece" "Junko" "Hecatia"
@@ -52,56 +52,6 @@ TOUHOU_EOSD_NAME = {
 	}
 }
 
-#th6.5
-TOUHOU_IAMP_NAME = {
-	name = NAME_TOUHOU_IAMP
-
-	type = ship
-
-	fallback_name = "Touhou IAMP %d"
-	unique = {
-		"Temp Name"
-	}
-}
-
-
-
-#th7
-TOUHOU_PCB_NAME = {
-	name = NAME_TOUHOU_PCB
-
-	type = ship
-
-	fallback_name = "Touhou PCB %d"
-	unique = {
-		"Temp Name"
-	}
-}
-
-TOUHOU_INABA_NAME = {
-	name = NAME_TOUHOU_INABA
-
-	type = ship
-
-	fallback_name = "Touhou Inana %d"
-	unique = {
-		"Temp Name"
-	}
-
-}
-
-#th8
-TOUHOU_IN_NAME = {
-	name = NAME_TOUHOU_IN
-
-	type = ship
-
-	fallback_name = "Touhou IN %d"
-	unique = {
-		"Temp Name"
-	}
-}
-
 #th stage 1
 TOUHOU_ST1_NAME = {
 	name = NAME_TOUHOU_ST1
@@ -114,25 +64,13 @@ TOUHOU_ST1_NAME = {
 	}
 }
 
-#th stage 1
-TOUHOU_ST2_NAME = {
-	name = NAME_TOUHOU_ST2
+#Generic name
+TOUHOU_INABA_NAME = {
+	name = NAME_TOUHOU_INABA
 
 	type = ship
 
-	#fallback_name = "Touhou %d"
-	unique = {
-		"Temp Name"
-	}
-}
-
-#th stage 1
-TOUHOU_ST3_NAME = {
-	name = NAME_TOUHOU_ST3
-
-	type = ship
-
-	#fallback_name = "Touhou %d"
+	fallback_name = "Touhou Inana %d"
 	unique = {
 		"Temp Name"
 	}
