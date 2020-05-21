@@ -1,77 +1,202 @@
-﻿##### TOUHOU NAME LISTS #####
-
-# windows era for now
-TOUHOU_SHIP_NAME = {
-	name = NAME_THEME_TOUHOU
-	#name = Touhou
-	#no need to specific contries : avaiable for all contries
-	for_countries = { }
-
+#th0.0
+TOUHOU_PRO_NAME = {
 	type = ship
 
-	#no need to specific ship typs
-	#ship_types = { ship_hull_light destroyer }		
-
-	fallback_name = "Touhou %d"
+	fallback_name = "Touhou PRO %d"
 	unique = {
-		"Marisa" "Reimu" "Rumia" "Daiyousei" "Cirno" "Meiling" "Koakuma" "Patchouli" "Sakuya" "Remilia"
-		"Flandre" "Letty" "Chen" "Alice" "Lily" "Merlin" "Lunasa" "Lyrica" "Youmu" "Yuyuko"
-		"Ran" "Yukari" "Suika" "Wriggle" "Mystia" "Keine" "Tewi" "Reisen" "Eirin" "Kaguya"
-		"Fujiwara" "Aya" "Medicine" "Yuuka" "Komachi" "Shikieiki" "Shizuha" "Minoriko" "Hina" "Nitori"
-		"Momiji" "Sanae" "Kanako" "Suwako" "Iku" "Tenshi" "Kisume" "Yamame" "Parsee" "Yuugi"
-		"Satori" "Rin" "Utsuho" "Koishi" "Nazrin" "Kogasa" "Ichirin" "Murasa " "Shou " "Byakuren"
-		"Nue" "Hatate" "Sunny" "Luna" "Star" "Kyouko" "Yoshika" "Seiga" "Tojiko" "Futo"
-		"Miko" "Mamizou" "Kokoro " "Wakasagihime" "Sekibanki" "Kagerou" "Yatsuhashi" "Benben" "Seija" "Shinmyoumaru"
-		"Raiko" "Kasen" "Sumireko" "Seiran" "Ringo" "Doremy" "Sagume" "Clownpiece" "Junko" "Hecatia"
-		"Joon" "Shion" "Eternity Larva" "Nemuno" "Aunn" "Narumi" "Mai" "Satono" "Okina" "Eika" 
+		"Marisa" "Reimu" 
 	}
 }
 
-#playable character
-TOUHOU_PLAYER_NAME = {
-	name = NAME_TOUHOU_PLAYER
-
+#th1.0
+TOUHOU_HRTP_NAME = {
 	type = ship
 
-	fallback_name = "Touhou Player %d"
+	fallback_name = "Touhou HRTP %d"
 	unique = {
-		"Marisa" "Reimu" "Sakuya" "Youmu" "More Soon!"
+		"SinGyoku" "YuugenMagan" "Elis" "Sariel" "Kikuri" "Mima" "Kikuri " "Konngara " 
 	}
 }
 
-#th6
+#th2.0
+TOUHOU_SOEW_NAME = {
+	type = ship
+
+	fallback_name = "Touhou SOEW %d"
+	unique = {
+		"Genjii" "Rika" "Meira" 
+	}
+}
+
+#th3.0
+TOUHOU_PODD_NAME = {
+	type = ship
+
+	fallback_name = "Touhou PODD %d"
+	unique = {
+		"Ellen" "Kotohime" "Kana" "Rikako" "Chiyuri" "Yumemi" "Ruukoto" 
+	}
+}
+
+#th4.0
+TOUHOU_LLS_NAME = {
+	type = ship
+
+	fallback_name = "Touhou LLS %d"
+	unique = {
+		"Orange" "Kurumi" "Yuuka" "Mugetsu" "Gengetsu" 
+	}
+}
+
+#th5.0
+TOUHOU_MQ_NAME = {
+	type = ship
+
+	fallback_name = "Touhou MQ %d"
+	unique = {
+		"Sara" "Louise" "Alice" "Yuki" "Mai" "Yumeko" "Shinki" 
+	}
+}
+
+#th6.0
 TOUHOU_EOSD_NAME = {
-	name = NAME_TOUHOU_EOSD
-
 	type = ship
 
 	fallback_name = "Touhou EOSD %d"
 	unique = {
-		"Rumia" "Daiyousei" "Cirno" "Meiling" "Koakuma" "Patchouli" "Sakuya" "Remilia"
-		"Flandre" 
+		"Rumia" "Daiyousei" "Cirno" "Meiling" "Koakuma" "Patchouli" "Sakuya" "Remilia" "Flandre" 
 	}
 }
 
-#th stage 1
-TOUHOU_ST1_NAME = {
-	name = NAME_TOUHOU_ST1
-
+#th7.0
+TOUHOU_PCB_NAME = {
 	type = ship
 
-	#fallback_name = "Touhou %d"
+	fallback_name = "Touhou PCB %d"
 	unique = {
-		"Temp Name"
+		"Letty" "Chen" "Alice" "Lily" "Merlin" "Lunasa" "Lyrica" "Youmu" "Yuyuko" "Ran" 
+		"Yukari" 
 	}
 }
 
-#Generic name
-TOUHOU_INABA_NAME = {
-	name = NAME_TOUHOU_INABA
-
+#th8.0
+TOUHOU_IN_NAME = {
 	type = ship
 
-	fallback_name = "Touhou Inana %d"
+	fallback_name = "Touhou IN %d"
 	unique = {
-		"Temp Name"
+		"Wriggle" "Mystia" "Keine" "Tewi" "Reisen" "Eirin" "Kaguya" "Moukou" 
 	}
 }
+
+#th9.0
+TOUHOU_POFV_NAME = {
+	type = ship
+
+	fallback_name = "Touhou POFV %d"
+	unique = {
+		"Aya" "Medicine" "Yuuka" "Komachi" "Eiki" 
+	}
+}
+
+#th10.0
+TOUHOU_MOF_NAME = {
+	type = ship
+
+	fallback_name = "Touhou MOF %d"
+	unique = {
+		"Shizuha" "Minoriko" "Hina" "Nitori" "Momiji" "Sanae" "Kanako" "Suwako" 
+	}
+}
+
+#th11.0
+TOUHOU_SA_NAME = {
+	type = ship
+
+	fallback_name = "Touhou SA %d"
+	unique = {
+		"Kisume" "Yamame" "Parsee" "Yuugi" "Satori" "Rin" "Utsuho" "Koishi" 
+	}
+}
+
+#th12.0
+TOUHOU_UFO_NAME = {
+	type = ship
+
+	fallback_name = "Touhou UFO %d"
+	unique = {
+		"Nazrin" "Kogasa" "Ichirin" "Murasa " "Shou " "Byakuren" "Nue" 
+	}
+}
+
+#th13.0
+TOUHOU_TD_NAME = {
+	type = ship
+
+	fallback_name = "Touhou TD %d"
+	unique = {
+		"Kyouko" "Yoshika" "Seiga" "Tojiko" "Futo" "Miko" "Mamizou" 
+	}
+}
+
+#th14.0
+TOUHOU_DC_NAME = {
+	type = ship
+
+	fallback_name = "Touhou DC %d"
+	unique = {
+		"Wakasagihime" "Sekibanki" "Kagerou" "Yatsuhashi" "Benben" "Seija" "Shinmyoumaru" "Raiko" 
+	}
+}
+
+#th15.0
+TOUHOU_LOLK_NAME = {
+	type = ship
+
+	fallback_name = "Touhou LOLK %d"
+	unique = {
+		"Seiran" "Ringo" "Doremy" "Sagume" "ClownPiece" "Junko" "Hecatia" 
+	}
+}
+
+#th16.0
+TOUHOU_HSIFS_NAME = {
+	type = ship
+
+	fallback_name = "Touhou HSIFS %d"
+	unique = {
+		"Larva" "Nemuno" "Aunn" "Narumi" "Mai" "Satono" "Okina" 
+	}
+}
+
+#th17.0
+TOUHOU_WBAWC_NAME = {
+	type = ship
+
+	fallback_name = "Touhou WBAWC %d"
+	unique = {
+		"Eika" "Urumi" "Kutaka" "Yachie" "Mayumi" "Keiki" "Saki" 
+	}
+}
+
+#th99.0
+TOUHOU_SPO_NAME = {
+	type = ship
+
+	fallback_name = "Touhou SPO %d"
+	unique = {
+		"Suika" "Iku" "Tenshi" "Hatate" "Sunny" "Luna" "Star" "Kokoro " "Kasen" "Sumireko" 
+		"Joon" "Shion" 
+	}
+}
+
+#th100.0
+TOUHOU_PW_NAME = {
+	type = ship
+
+	fallback_name = "Touhou PW %d"
+	unique = {
+		"Yorihime" "Toyohime" "Renko" "Maribel" "Rinnosuke" "Hieda" "Reisen(Moon)" "Kosuzu" 
+	}
+}
+
