@@ -1,18 +1,22 @@
 #th0.0
 TOUHOU_PRO_NAME = {
+	name = NAME_TOUHOU_PRO
+
 	type = ship
 
-	fallback_name = "Touhou PRO %d"
+	#fallback_name = "Touhou PRO %d"
 	unique = {
-		"Marisa" "Reimu" 
+		"Reimu" "Marisa" 
 	}
 }
 
 #th1.0
 TOUHOU_HRTP_NAME = {
+	name = NAME_TOUHOU_HRTP
+
 	type = ship
 
-	fallback_name = "Touhou HRTP %d"
+	fallback_name = "Touhou HRtP %d"
 	unique = {
 		"SinGyoku" "YuugenMagan" "Elis" "Sariel" "Kikuri" "Mima" "Kikuri " "Konngara " 
 	}
@@ -20,9 +24,11 @@ TOUHOU_HRTP_NAME = {
 
 #th2.0
 TOUHOU_SOEW_NAME = {
+	name = NAME_TOUHOU_SOEW
+
 	type = ship
 
-	fallback_name = "Touhou SOEW %d"
+	fallback_name = "Touhou SoEW %d"
 	unique = {
 		"Genjii" "Rika" "Meira" 
 	}
@@ -30,9 +36,11 @@ TOUHOU_SOEW_NAME = {
 
 #th3.0
 TOUHOU_PODD_NAME = {
+	name = NAME_TOUHOU_PODD
+
 	type = ship
 
-	fallback_name = "Touhou PODD %d"
+	fallback_name = "Touhou PoDD %d"
 	unique = {
 		"Ellen" "Kotohime" "Kana" "Rikako" "Chiyuri" "Yumemi" "Ruukoto" 
 	}
@@ -40,6 +48,8 @@ TOUHOU_PODD_NAME = {
 
 #th4.0
 TOUHOU_LLS_NAME = {
+	name = NAME_TOUHOU_LLS
+
 	type = ship
 
 	fallback_name = "Touhou LLS %d"
@@ -50,6 +60,8 @@ TOUHOU_LLS_NAME = {
 
 #th5.0
 TOUHOU_MQ_NAME = {
+	name = NAME_TOUHOU_MQ
+
 	type = ship
 
 	fallback_name = "Touhou MQ %d"
@@ -60,6 +72,8 @@ TOUHOU_MQ_NAME = {
 
 #th6.0
 TOUHOU_EOSD_NAME = {
+	name = NAME_TOUHOU_EOSD
+
 	type = ship
 
 	fallback_name = "Touhou EOSD %d"
@@ -70,6 +84,8 @@ TOUHOU_EOSD_NAME = {
 
 #th7.0
 TOUHOU_PCB_NAME = {
+	name = NAME_TOUHOU_PCB
+
 	type = ship
 
 	fallback_name = "Touhou PCB %d"
@@ -81,6 +97,8 @@ TOUHOU_PCB_NAME = {
 
 #th8.0
 TOUHOU_IN_NAME = {
+	name = NAME_TOUHOU_IN
+
 	type = ship
 
 	fallback_name = "Touhou IN %d"
@@ -91,9 +109,11 @@ TOUHOU_IN_NAME = {
 
 #th9.0
 TOUHOU_POFV_NAME = {
+	name = NAME_TOUHOU_POFV
+
 	type = ship
 
-	fallback_name = "Touhou POFV %d"
+	fallback_name = "Touhou PoFV %d"
 	unique = {
 		"Aya" "Medicine" "Yuuka" "Komachi" "Eiki" 
 	}
@@ -101,9 +121,11 @@ TOUHOU_POFV_NAME = {
 
 #th10.0
 TOUHOU_MOF_NAME = {
+	name = NAME_TOUHOU_MOF
+
 	type = ship
 
-	fallback_name = "Touhou MOF %d"
+	fallback_name = "Touhou MoF %d"
 	unique = {
 		"Shizuha" "Minoriko" "Hina" "Nitori" "Momiji" "Sanae" "Kanako" "Suwako" 
 	}
@@ -111,6 +133,8 @@ TOUHOU_MOF_NAME = {
 
 #th11.0
 TOUHOU_SA_NAME = {
+	name = NAME_TOUHOU_SA
+
 	type = ship
 
 	fallback_name = "Touhou SA %d"
@@ -121,6 +145,8 @@ TOUHOU_SA_NAME = {
 
 #th12.0
 TOUHOU_UFO_NAME = {
+	name = NAME_TOUHOU_UFO
+
 	type = ship
 
 	fallback_name = "Touhou UFO %d"
@@ -131,6 +157,8 @@ TOUHOU_UFO_NAME = {
 
 #th13.0
 TOUHOU_TD_NAME = {
+	name = NAME_TOUHOU_TD
+
 	type = ship
 
 	fallback_name = "Touhou TD %d"
@@ -140,10 +168,12 @@ TOUHOU_TD_NAME = {
 }
 
 #th14.0
-TOUHOU_DC_NAME = {
+TOUHOU_DDC_NAME = {
+	name = NAME_TOUHOU_DDC
+
 	type = ship
 
-	fallback_name = "Touhou DC %d"
+	fallback_name = "Touhou DDC %d"
 	unique = {
 		"Wakasagihime" "Sekibanki" "Kagerou" "Yatsuhashi" "Benben" "Seija" "Shinmyoumaru" "Raiko" 
 	}
@@ -151,9 +181,11 @@ TOUHOU_DC_NAME = {
 
 #th15.0
 TOUHOU_LOLK_NAME = {
+	name = NAME_TOUHOU_LOLK
+
 	type = ship
 
-	fallback_name = "Touhou LOLK %d"
+	fallback_name = "Touhou LoLK %d"
 	unique = {
 		"Seiran" "Ringo" "Doremy" "Sagume" "ClownPiece" "Junko" "Hecatia" 
 	}
@@ -161,9 +193,11 @@ TOUHOU_LOLK_NAME = {
 
 #th16.0
 TOUHOU_HSIFS_NAME = {
+	name = NAME_TOUHOU_HSIFS
+
 	type = ship
 
-	fallback_name = "Touhou HSIFS %d"
+	fallback_name = "Touhou HSiFS %d"
 	unique = {
 		"Larva" "Nemuno" "Aunn" "Narumi" "Mai" "Satono" "Okina" 
 	}
@@ -171,32 +205,102 @@ TOUHOU_HSIFS_NAME = {
 
 #th17.0
 TOUHOU_WBAWC_NAME = {
+	name = NAME_TOUHOU_WBAWC
+
 	type = ship
 
-	fallback_name = "Touhou WBAWC %d"
+	fallback_name = "Touhou WBaWC %d"
 	unique = {
 		"Eika" "Urumi" "Kutaka" "Yachie" "Mayumi" "Keiki" "Saki" 
 	}
 }
 
-#th99.0
-TOUHOU_SPO_NAME = {
+#th98.0
+TOUHOU_ALLPC98_NAME = {
+	name = NAME_TOUHOU_ALLPC98
+
 	type = ship
 
-	fallback_name = "Touhou SPO %d"
+	fallback_name = "Touhou PC-98 %d"
+	unique = {
+		"Reimu" "Marisa" "SinGyoku" "YuugenMagan" "Elis" "Sariel" "Kikuri" "Mima" "Kikuri " "Konngara " 
+		"Genjii" "Rika" "Meira" "Ellen" "Kotohime" "Kana" "Rikako" "Chiyuri" "Yumemi" "Ruukoto" 
+		"Orange" "Kurumi" "Yuuka" "Mugetsu" "Gengetsu" "Sara" "Louise" "Alice" "Yuki" "Mai" 
+		"Yumeko" "Shinki" 
+	}
+}
+
+#th99.0
+TOUHOU_ALLWIN_NAME = {
+	name = NAME_TOUHOU_ALLWIN
+
+	type = ship
+
+	fallback_name = "Touhou windows %d"
+	unique = {
+		"Rumia" "Daiyousei" "Cirno" "Meiling" "Koakuma" "Patchouli" "Sakuya" "Remilia" "Flandre" "Letty" 
+		"Chen" "Alice" "Lily" "Merlin" "Lunasa" "Lyrica" "Youmu" "Yuyuko" "Ran" "Yukari" 
+		"Wriggle" "Mystia" "Keine" "Tewi" "Reisen" "Eirin" "Kaguya" "Moukou" "Aya" "Medicine" 
+		"Yuuka" "Komachi" "Eiki" "Shizuha" "Minoriko" "Hina" "Nitori" "Momiji" "Sanae" "Kanako" 
+		"Suwako" "Kisume" "Yamame" "Parsee" "Yuugi" "Satori" "Rin" "Utsuho" "Koishi" "Nazrin" 
+		"Kogasa" "Ichirin" "Murasa " "Shou " "Byakuren" "Nue" "Kyouko" "Yoshika" "Seiga" "Tojiko" 
+		"Futo" "Miko" "Mamizou" "Wakasagihime" "Sekibanki" "Kagerou" "Yatsuhashi" "Benben" "Seija" "Shinmyoumaru" 
+		"Raiko" "Seiran" "Ringo" "Doremy" "Sagume" "ClownPiece" "Junko" "Hecatia" "Larva" "Nemuno" 
+		"Aunn" "Narumi" "Mai" "Satono" "Okina" "Eika" "Urumi" "Kutaka" "Yachie" "Mayumi" 
+		"Keiki" "Saki" "Suika" "Iku" "Tenshi" "Hatate" "Sunny" "Luna" "Star" "Kokoro " 
+		"Kasen" "Sumireko" "Joon" "Shion" "Yorihime" "Toyohime" "Renko" "Maribel" "Rinnosuke" "Akyuu" 
+		"Reisen(Moon)" "Kosuzu" 
+	}
+}
+
+#th100.0
+TOUHOU_SPO_NAME = {
+	name = NAME_TOUHOU_SPO
+
+	type = ship
+
+	#fallback_name = "Touhou SPO %d"
 	unique = {
 		"Suika" "Iku" "Tenshi" "Hatate" "Sunny" "Luna" "Star" "Kokoro " "Kasen" "Sumireko" 
 		"Joon" "Shion" 
 	}
 }
 
-#th100.0
+#th101.0
 TOUHOU_PW_NAME = {
+	name = NAME_TOUHOU_PW
+
 	type = ship
 
-	fallback_name = "Touhou PW %d"
+	#fallback_name = "Touhou PW %d"
 	unique = {
-		"Yorihime" "Toyohime" "Renko" "Maribel" "Rinnosuke" "Hieda" "Reisen(Moon)" "Kosuzu" 
+		"Yorihime" "Toyohime" "Reisen(Moon)" "Renko" "Maribel" "Rinnosuke" "Akyuu" "Kosuzu" 
+	}
+}
+
+#th102.0
+TOUHOU_TOUHOU_NAME = {
+	name = NAME_TOUHOU_TOUHOU
+
+	type = ship
+
+	fallback_name = "Touhou %d"
+	unique = {
+		"Reimu" "Marisa" "SinGyoku" "YuugenMagan" "Elis" "Sariel" "Kikuri" "Mima" "Kikuri " "Konngara " 
+		"Genjii" "Rika" "Meira" "Ellen" "Kotohime" "Kana" "Rikako" "Chiyuri" "Yumemi" "Ruukoto" 
+		"Orange" "Kurumi" "Yuuka" "Mugetsu" "Gengetsu" "Sara" "Louise" "Alice" "Yuki" "Mai" 
+		"Yumeko" "Shinki" "Rumia" "Daiyousei" "Cirno" "Meiling" "Koakuma" "Patchouli" "Sakuya" "Remilia" 
+		"Flandre" "Letty" "Chen" "Alice" "Lily" "Merlin" "Lunasa" "Lyrica" "Youmu" "Yuyuko" 
+		"Ran" "Yukari" "Wriggle" "Mystia" "Keine" "Tewi" "Reisen" "Eirin" "Kaguya" "Moukou" 
+		"Aya" "Medicine" "Yuuka" "Komachi" "Eiki" "Shizuha" "Minoriko" "Hina" "Nitori" "Momiji" 
+		"Sanae" "Kanako" "Suwako" "Kisume" "Yamame" "Parsee" "Yuugi" "Satori" "Rin" "Utsuho" 
+		"Koishi" "Nazrin" "Kogasa" "Ichirin" "Murasa " "Shou " "Byakuren" "Nue" "Kyouko" "Yoshika" 
+		"Seiga" "Tojiko" "Futo" "Miko" "Mamizou" "Wakasagihime" "Sekibanki" "Kagerou" "Yatsuhashi" "Benben" 
+		"Seija" "Shinmyoumaru" "Raiko" "Seiran" "Ringo" "Doremy" "Sagume" "ClownPiece" "Junko" "Hecatia" 
+		"Larva" "Nemuno" "Aunn" "Narumi" "Mai" "Satono" "Okina" "Eika" "Urumi" "Kutaka" 
+		"Yachie" "Mayumi" "Keiki" "Saki" "Suika" "Iku" "Tenshi" "Hatate" "Sunny" "Luna" 
+		"Star" "Kokoro " "Kasen" "Sumireko" "Joon" "Shion" "Yorihime" "Toyohime" "Renko" "Maribel" 
+		"Rinnosuke" "Hieda" "Reisen(Moon)" "Kosuzu" 
 	}
 }
 
