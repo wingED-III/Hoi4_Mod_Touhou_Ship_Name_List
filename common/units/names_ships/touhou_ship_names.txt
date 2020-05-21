@@ -236,7 +236,7 @@ TOUHOU_ALLWIN_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou windows %d"
+	fallback_name = "Touhou Windows %d"
 	unique = {
 		"Rumia" "Daiyousei" "Cirno" "Meiling" "Koakuma" "Patchouli" "Sakuya" "Remilia" "Flandre" "Letty" 
 		"Chen" "Alice" "Lily" "Merlin" "Lunasa" "Lyrica" "Youmu" "Yuyuko" "Ran" "Yukari" 
