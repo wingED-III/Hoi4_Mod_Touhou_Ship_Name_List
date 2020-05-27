@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  NAME_TOUHOU_PRO:0 "Touhou Protagonists" 
  NAME_TOUHOU_HRTP:0 "Touhou 1 HRtP" 
  NAME_TOUHOU_SOEW:0 "Touhou 2 SoEW" 
@@ -33,3 +33,4 @@ l_english:
  NAME_TOUHOU_SPO:0 "Touhou Spin-off Games" 
  NAME_TOUHOU_PW:0 "Touhou Print Works" 
  NAME_TOUHOU_TOUHOU:0 "All Touhou" 
+ NAME_TOUHOU_INABA:0 "Touhou Inaba"
