@@ -76,7 +76,7 @@ TOUHOU_EOSD_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou EOSD %d"
+	fallback_name = "Touhou EoSD %d"
 	unique = {
 		"Rumia" "Daiyousei" "Cirno" "Meiling" "Koakuma" "Patchouli" "Sakuya" "Remilia" "Flandre" 
 	}
