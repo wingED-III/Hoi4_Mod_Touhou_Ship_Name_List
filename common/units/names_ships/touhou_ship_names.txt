@@ -1,14 +1,14 @@
-#th0.0
-TOUHOU_PRO_NAME = {
-	name = NAME_TOUHOU_PRO
+﻿#th0.0
+# TOUHOU_PRO_NAME = {
+# 	name = NAME_TOUHOU_PRO
 
-	type = ship
+# 	type = ship
 
-	#fallback_name = "Touhou PRO %d"
-	unique = {
-		"Reimu" "Marisa" 
-	}
-}
+# 	#fallback_name = "Touhou PRO %d"
+# 	unique = {
+# 		"Reimu" "Marisa" 
+# 	}
+# }
 
 #th1.0
 TOUHOU_HRTP_NAME = {
@@ -18,7 +18,7 @@ TOUHOU_HRTP_NAME = {
 
 	fallback_name = "Touhou HRtP %d"
 	unique = {
-		"SinGyoku" "YuugenMagan" "Elis" "Sariel" "Kikuri" "Mima" "Kikuri " "Konngara " 
+		"Reimu" "SinGyoku" "YuugenMagan" "Elis" "Sariel" "Kikuri" "Mima" "Kikuri " "Konngara " 
 	}
 }
 
@@ -30,7 +30,7 @@ TOUHOU_SOEW_NAME = {
 
 	fallback_name = "Touhou SoEW %d"
 	unique = {
-		"Genjii" "Rika" "Meira" 
+		"Genjii" "Rika" "Meira" "Marisa"
 	}
 }
 
@@ -59,12 +59,12 @@ TOUHOU_LLS_NAME = {
 }
 
 #th5.0
-TOUHOU_MQ_NAME = {
-	name = NAME_TOUHOU_MQ
+TOUHOU_MS_NAME = {
+	name = NAME_TOUHOU_MS
 
 	type = ship
 
-	fallback_name = "Touhou MQ %d"
+	fallback_name = "Touhou MS %d"
 	unique = {
 		"Sara" "Louise" "Alice" "Yuki" "Mai" "Yumeko" "Shinki" 
 	}
@@ -238,6 +238,7 @@ TOUHOU_ALLWIN_NAME = {
 
 	fallback_name = "Touhou Windows %d"
 	unique = {
+		"Reimu" "Marisa"
 		"Rumia" "Daiyousei" "Cirno" "Meiling" "Koakuma" "Patchouli" "Sakuya" "Remilia" "Flandre" "Letty" 
 		"Chen" "Alice" "Lily" "Merlin" "Lunasa" "Lyrica" "Youmu" "Yuyuko" "Ran" "Yukari" 
 		"Wriggle" "Mystia" "Keine" "Tewi" "Reisen" "Eirin" "Kaguya" "Moukou" "Aya" "Medicine" 
@@ -304,3 +305,14 @@ TOUHOU_TOUHOU_NAME = {
 	}
 }
 
+#th inaba class
+TOUHOU_INABA_NAME = {
+	name = NAME_TOUHOU_INABA
+
+	type = ship
+
+	fallback_name = "Inaba %d"
+	unique = {
+		"Tewi" "Reisen" 
+	}
+}
