@@ -16,7 +16,7 @@ TOUHOU_HRTP_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou HRtP %d"
+	#fallback_name = "Touhou HRtP %d"
 	unique = {
 		"Reimu" "SinGyoku" "YuugenMagan" "Elis" "Sariel" "Kikuri" "Mima" "Kikuri " "Konngara " 
 	}
@@ -28,7 +28,7 @@ TOUHOU_SOEW_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou SoEW %d"
+	#fallback_name = "Touhou SoEW %d"
 	unique = {
 		"Genjii" "Rika" "Meira" "Marisa"
 	}
@@ -40,7 +40,7 @@ TOUHOU_PODD_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou PoDD %d"
+	#fallback_name = "Touhou PoDD %d"
 	unique = {
 		"Ellen" "Kotohime" "Kana" "Rikako" "Chiyuri" "Yumemi" "Ruukoto" 
 	}
@@ -52,7 +52,7 @@ TOUHOU_LLS_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou LLS %d"
+	#fallback_name = "Touhou LLS %d"
 	unique = {
 		"Orange" "Kurumi" "Yuuka" "Mugetsu" "Gengetsu" 
 	}
@@ -64,7 +64,7 @@ TOUHOU_MS_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou MS %d"
+	#fallback_name = "Touhou MS %d"
 	unique = {
 		"Sara" "Louise" "Alice" "Yuki" "Mai" "Yumeko" "Shinki" 
 	}
@@ -76,7 +76,7 @@ TOUHOU_EOSD_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou EoSD %d"
+	#fallback_name = "Touhou EoSD %d"
 	unique = {
 		"Rumia" "Daiyousei" "Cirno" "Meiling" "Koakuma" "Patchouli" "Sakuya" "Remilia" "Flandre" 
 	}
@@ -88,7 +88,7 @@ TOUHOU_PCB_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou PCB %d"
+	#fallback_name = "Touhou PCB %d"
 	unique = {
 		"Letty" "Chen" "Alice" "Lily" "Merlin" "Lunasa" "Lyrica" "Youmu" "Yuyuko" "Ran" 
 		"Yukari" 
@@ -101,7 +101,7 @@ TOUHOU_IN_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou IN %d"
+	#fallback_name = "Touhou IN %d"
 	unique = {
 		"Wriggle" "Mystia" "Keine" "Tewi" "Reisen" "Eirin" "Kaguya" "Moukou" 
 	}
@@ -113,7 +113,7 @@ TOUHOU_POFV_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou PoFV %d"
+	#fallback_name = "Touhou PoFV %d"
 	unique = {
 		"Aya" "Medicine" "Yuuka" "Komachi" "Eiki" 
 	}
@@ -137,7 +137,7 @@ TOUHOU_SA_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou SA %d"
+	#fallback_name = "Touhou SA %d"
 	unique = {
 		"Kisume" "Yamame" "Parsee" "Yuugi" "Satori" "Rin" "Utsuho" "Koishi" 
 	}
@@ -149,7 +149,7 @@ TOUHOU_UFO_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou UFO %d"
+	#fallback_name = "Touhou UFO %d"
 	unique = {
 		"Nazrin" "Kogasa" "Ichirin" "Murasa " "Shou " "Byakuren" "Nue" 
 	}
@@ -161,7 +161,7 @@ TOUHOU_TD_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou TD %d"
+	#fallback_name = "Touhou TD %d"
 	unique = {
 		"Kyouko" "Yoshika" "Seiga" "Tojiko" "Futo" "Miko" "Mamizou" 
 	}
@@ -173,7 +173,7 @@ TOUHOU_DDC_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou DDC %d"
+	#fallback_name = "Touhou DDC %d"
 	unique = {
 		"Wakasagihime" "Sekibanki" "Kagerou" "Yatsuhashi" "Benben" "Seija" "Shinmyoumaru" "Raiko" 
 	}
@@ -185,7 +185,7 @@ TOUHOU_LOLK_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou LoLK %d"
+	#fallback_name = "Touhou LoLK %d"
 	unique = {
 		"Seiran" "Ringo" "Doremy" "Sagume" "ClownPiece" "Junko" "Hecatia" 
 	}
@@ -197,7 +197,7 @@ TOUHOU_HSIFS_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou HSiFS %d"
+	#fallback_name = "Touhou HSiFS %d"
 	unique = {
 		"Larva" "Nemuno" "Aunn" "Narumi" "Mai" "Satono" "Okina" 
 	}
@@ -209,7 +209,7 @@ TOUHOU_WBAWC_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou WBaWC %d"
+	#fallback_name = "Touhou WBaWC %d"
 	unique = {
 		"Eika" "Urumi" "Kutaka" "Yachie" "Mayumi" "Keiki" "Saki" 
 	}
