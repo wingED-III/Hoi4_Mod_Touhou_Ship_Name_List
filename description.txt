@@ -4,7 +4,7 @@
 Name lists for ships. Available for every country.
 This mod should be compatible with any others mods.
 Have not test with Iron man mode.
-
+compatible version 1.9.* 
 
 [b]This mod contains the following files:[/b]
 - Touhou_ship_names.txt
@@ -26,4 +26,4 @@ Touhou Project created by ZUN.
 
 [u][b]If you have any suggestions.Please comment below[/b][/u]
 
-I had idea about group them by stage But due to too many characters re-appear multiple times. It cause too many duplicate name. So I cut it off.
+I had an idea about group them by stage But due to too many characters re-appear multiple times. It cause too many duplicate name. So I cut it off.
