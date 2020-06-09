@@ -1,4 +1,5 @@
-version="1.9.*"
+version="1.0.0"
+picture="thumbnail.png"
 tags={
 	"Utilities"
 }
