@@ -1,6 +1,9 @@
 # Hoi4 Ship name lists from Touhou Project
  Heart of Iron 4 Mod : Touhou character name for shipslist
 
+[Mod in steam workshop](https://en.wikipedia.org/wiki/List_of_Touhou_Project_characters)
+
+
 ### Brief:
 Name lists for ships. Available for every country.
 
@@ -8,7 +11,13 @@ This mod should be compatible with any others mods.
 
 Have not test with Iron man mode.
 
-compatible version 1.9.* 
+compatible version 1.9.*
+
+Not affect saved games.
+
+The Mod's version 1.0.1
+
+
 
 ### This mod contains the following files:
 - Touhou_ship_names.txt
