@@ -125,7 +125,7 @@ TOUHOU_MOF_NAME = {
 
 	type = ship
 
-	fallback_name = "Touhou MoF %d"
+	#fallback_name = "Touhou MoF %d"
 	unique = {
 		"Shizuha" "Minoriko" "Hina" "Nitori" "Momiji" "Sanae" "Kanako" "Suwako" 
 	}
