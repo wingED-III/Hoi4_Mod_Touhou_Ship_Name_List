@@ -1,10 +1,14 @@
 [h1]Ship name lists from Touhou Project[/h1]
 
+
 [b]Brief:[/b]
 Name lists for ships. Available for every country.
 This mod should be compatible with any others mods.
 Have not test with Iron man mode.
-compatible version 1.9.* 
+Compatible game version 1.9.* 
+Not affect saved games.
+The Mod's version 1.0.1
+
 
 [b]This mod contains the following files:[/b]
 - Touhou_ship_names.txt
