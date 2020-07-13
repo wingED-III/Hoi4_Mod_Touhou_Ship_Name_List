@@ -15,7 +15,7 @@ The Mod's version 1.0.1
 - Touhou_ship_names_l_english.yml
 
 [b]Details:[/b]
-- 144 unique character names include all Touhou1 - Touhou17 and non cannon character  names.
+- 144 unique character names include all Touhou1 - Touhou17 and non canon character names.
 - Mostly are group by their first appearance in game.
 - First name only.
 - Some lists have fallback names.
