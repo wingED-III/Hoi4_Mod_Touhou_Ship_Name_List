@@ -1,8 +1,9 @@
 # Hoi4 Ship name lists from Touhou Project
- Heart of Iron 4 Mod : Touhou character name for shipslist
+ **Heart of Iron 4 Mod : Touhou character names for ships**
 
-[Mod in steam workshop](https://en.wikipedia.org/wiki/List_of_Touhou_Project_characters)
+![Thumbnail](thumbnail.png)
 
+                            Available on Steam's Workshop
 
 ### Brief:
 Name lists for ships. Available for every country.
@@ -24,7 +25,7 @@ The Mod's version 1.0.1
 - Touhou_ship_names_l_english.yml
 
 ### Details:
-- 144 unique character names include all Touhou1 - Touhou17 and non cannon character  names.
+- 144 unique character names include all Touhou1 - Touhou17 and non canon character names.
 - Mostly are group by their first appearance in game.
 - First name only.
 - Some lists have fallback names.
