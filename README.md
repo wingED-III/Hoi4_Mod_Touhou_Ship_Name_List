@@ -3,7 +3,7 @@
 
 ![Thumbnail](thumbnail.png)
 
-                            Available on Steam's Workshop
+Available on Steam's Workshop
 
 ### Brief:
 Name lists for ships. Available for every country.
