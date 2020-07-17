@@ -7,7 +7,7 @@ This mod should be compatible with any others mods.
 Have not test with Iron man mode.
 Compatible game version 1.9.* 
 Not affect saved games.
-The Mod's version 1.0.1
+The Mod's version 1.0.2
 
 
 [b]This mod contains the following files:[/b]

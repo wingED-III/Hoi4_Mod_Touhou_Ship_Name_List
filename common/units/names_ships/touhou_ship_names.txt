@@ -90,7 +90,7 @@ TOUHOU_PCB_NAME = {
 
 	#fallback_name = "Touhou PCB %d"
 	unique = {
-		"Letty" "Chen" "Alice" "Lily" "Merlin" "Lunasa" "Lyrica" "Youmu" "Yuyuko" "Ran" 
+		"Letty" "Chen" "Alice" "LilyWhite" "Merlin" "Lunasa" "Lyrica" "Youmu" "Yuyuko" "Ran" 
 		"Yukari" 
 	}
 }
@@ -240,7 +240,7 @@ TOUHOU_ALLWIN_NAME = {
 	unique = {
 		"Reimu" "Marisa"
 		"Rumia" "Daiyousei" "Cirno" "Meiling" "Koakuma" "Patchouli" "Sakuya" "Remilia" "Flandre" "Letty" 
-		"Chen" "Alice" "Lily" "Merlin" "Lunasa" "Lyrica" "Youmu" "Yuyuko" "Ran" "Yukari" 
+		"Chen" "Alice" "LilyWhite" "Merlin" "Lunasa" "Lyrica" "Youmu" "Yuyuko" "Ran" "Yukari" 
 		"Wriggle" "Mystia" "Keine" "Tewi" "Reisen" "Eirin" "Kaguya" "Moukou" "Aya" "Medicine" 
 		"Yuuka" "Komachi" "Eiki" "Shizuha" "Minoriko" "Hina" "Nitori" "Momiji" "Sanae" "Kanako" 
 		"Suwako" "Kisume" "Yamame" "Parsee" "Yuugi" "Satori" "Rin" "Utsuho" "Koishi" "Nazrin" 
@@ -291,7 +291,7 @@ TOUHOU_TOUHOU_NAME = {
 		"Genjii" "Rika" "Meira" "Ellen" "Kotohime" "Kana" "Rikako" "Chiyuri" "Yumemi" "Ruukoto" 
 		"Orange" "Kurumi" "Yuuka" "Mugetsu" "Gengetsu" "Sara" "Louise" "Alice" "Yuki" "Mai" 
 		"Yumeko" "Shinki" "Rumia" "Daiyousei" "Cirno" "Meiling" "Koakuma" "Patchouli" "Sakuya" "Remilia" 
-		"Flandre" "Letty" "Chen" "Alice" "Lily" "Merlin" "Lunasa" "Lyrica" "Youmu" "Yuyuko" 
+		"Flandre" "Letty" "Chen" "Alice" "LilyWhite" "Merlin" "Lunasa" "Lyrica" "Youmu" "Yuyuko" 
 		"Ran" "Yukari" "Wriggle" "Mystia" "Keine" "Tewi" "Reisen" "Eirin" "Kaguya" "Moukou" 
 		"Aya" "Medicine" "Yuuka" "Komachi" "Eiki" "Shizuha" "Minoriko" "Hina" "Nitori" "Momiji" 
 		"Sanae" "Kanako" "Suwako" "Kisume" "Yamame" "Parsee" "Yuugi" "Satori" "Rin" "Utsuho" 
