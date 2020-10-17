@@ -5,7 +5,7 @@
 Name lists for ships. Available for every country.
 This mod should be compatible with any others mods.
 Have not test with Iron man mode.
-Compatible game version 1.9.* 
+Compatible game version 1.10.* 
 Not affect saved games.
 The Mod's version 1.0.2
 
