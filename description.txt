@@ -7,7 +7,7 @@ This mod should be compatible with any others mods.
 Have not test with Iron man mode.
 Compatible game version 1.10.* 
 Not affect saved games.
-The Mod's version 1.0.2
+The Mod's version is 1.0.3
 
 
 [b]This mod contains the following files:[/b]
@@ -15,7 +15,7 @@ The Mod's version 1.0.2
 - Touhou_ship_names_l_english.yml
 
 [b]Details:[/b]
-- 144 unique character names include all Touhou1 - Touhou17 and non canon character names.
+- 148 unique character names include all Touhou1 - Touhou18 and some non canon character names.
 - Mostly are group by their first appearance in game.
 - First name only.
 - Some lists have fallback names.
