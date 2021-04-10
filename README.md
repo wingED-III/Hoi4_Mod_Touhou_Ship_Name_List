@@ -12,11 +12,11 @@ This mod should be compatible with any others mods.
 
 Have not test with Iron man mode.
 
-compatible version 1.9.*
+Compatible game version 1.10.* 
 
 Not affect saved games.
 
-The Mod's version 1.0.1
+The Mod's version is 1.0.3
 
 
 
@@ -25,11 +25,11 @@ The Mod's version 1.0.1
 - Touhou_ship_names_l_english.yml
 
 ### Details:
-- 144 unique character names include all Touhou1 - Touhou17 and non canon character names.
+- 148 unique character names include all Touhou1 - Touhou18(demo) and some non canon character names.
 - Mostly are group by their first appearance in game.
 - First name only.
-- Some lists have fallback names.
-- Available Lists: Touhou1 - Touhou17, All PC-98, All windows, All official Spin-Off games, Print work characters,All Touhou and Inaba (Tewi and Reisen the rest is Inaba [number] (fallback name))  
+- Available Lists: Touhou1 - Touhou18(demo), All PC-98, All windows, All official Spin-Off games, Print work characters,All Touhou and Inaba (Tewi and Reisen the rest is Inaba [number] (fallback name))  
+
 
 ### Known Issues:
 -The Lists are not sorted in game. I don't know how to fix.
@@ -40,4 +40,5 @@ Mostly character names are extracted from [wikipedia](https://en.wikipedia.org/w
 Touhou Project created by ZUN.
 
 
+***
 I had an idea about group them by stage But due to too many characters re-appear multiple times. It cause too many duplicate name. So I cut it off.
