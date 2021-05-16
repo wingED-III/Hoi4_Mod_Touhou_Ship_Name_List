@@ -211,7 +211,7 @@ TOUHOU_UM_NAME = {
 
 	#fallback_name = "Touhou UM %d"
 	unique = {
-		"Mike" "Takane" "Sannyo" 
+		"Mike" "Takane" "Sannyo" "Misumaru" "Tsukasa" "Megumu" "Chimata" "Momoyo" 
 	}
 }
 
