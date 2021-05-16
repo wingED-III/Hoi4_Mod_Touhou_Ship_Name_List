@@ -16,7 +16,7 @@ Compatible game version 1.10.*
 
 Not affect saved games.
 
-The Mod's version is 1.0.3
+The Mod's version is 1.0.4
 
 
 
